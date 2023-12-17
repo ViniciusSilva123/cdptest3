@@ -1,0 +1,59 @@
+{
+    "listaPorcoes": 
+    [
+        {
+            "nome": "🍟TUPILA / MEIO DA ASA",
+            "descricao": "Tupila de Frango Switf 1kg, Frita e Temperada na Chapa",
+            "preco": "49,00",
+            "link": "https://api.whatsapp.com/send?phone=5511959331094&text=TUPILA+%2F+MEIO+DA+ASA%0ATupila+de+Frango+Switf+1kg%2C+Frita+e+Temperada+na+Chapa%0AR%2449%2C00"
+        },
+        {
+            "nome": "🍟CARNE SECA COM MANDIOCA",
+            "descricao": "Carne Seca bem Saborosa. Acompanha: Mandioca e Tiras de Queijo Coalho",
+            "preco": "58,00",
+            "link": "https://api.whatsapp.com/send?phone=5511959331094&text=CARNE+SECA+COM+MANDIOCA%0ACarne+Seca+bem+Saborosa.+Acompanha%3A+Mandioca+e+Tiras+de+Queijo+Coalho%0AR%2458%2C00"
+        },
+        {
+            "nome": "🍟FRANGO A PASSARINHO",
+            "descricao": "Frango Swift, Frito e Temperado na Chapa. Acompanha: Ovos de Codorna, Azeitonas, Tomate e Limão",
+            "preco": "40,00",
+            "link": "https://api.whatsapp.com/send?phone=5511959331094&text=FRANGO+A+PASSARINHO%0AFrango+Swift%2C+Frito+e+Temperado+na+Chapa.+Acompanha%3A+Ovos+de+Codorna%2C+Azeitonas%2C+Tomate+e+Lim%C3%A3o%0AR%2440%2C00"
+        },
+        {
+            "nome": "🍟CALABRESA ACEBOLADA",
+            "descricao": "Feita na Chapa . Acompanha: Ovos de Codorna, Azeitona e Limão",
+            "preco": "49,00",
+            "link": "https://api.whatsapp.com/send?phone=5511959331094&text=CALABRESA+ACEBOLADA%0AFeita+na+Chapa+.+Acompanha%3A+Ovos+de+Codorna%2C+Azeitona+e+Lim%C3%A3o%0AR%2449%2C00"
+        },
+        {
+            "nome": "🍟CALABRESA COM BATATA",
+            "descricao": "Feita na Chapa. Acompanha: Ovos de Codorna e Azeitona",
+            "preco": "49,00",
+            "link": "https://api.whatsapp.com/send?phone=5511959331094&text=CALABRESA+COM+BATATA%0AFeita+na+Chapa.+Acompanha%3A+Ovos+de+Codorna+e+Azeitona%0AR%2449%2C00"
+        },
+        {
+            "nome": "🍟MANDIOCA FRITA",
+            "descricao": "Acompanha: Ovos de Codorna e Azeitonas",
+            "preco": "35,00",
+            "link": "https://api.whatsapp.com/send?phone=5511959331094&text=MANDIOCA+FRITA%0AAcompanha%3A+Ovos+de+Codorna+e+Azeitonas%0AR%2435%2C00"
+        },
+        {
+            "nome": "🍟FRIOS MISTOS",
+            "descricao": "Salame, Ovos de Codorna e Azeitonas",
+            "preco": "48,00",
+            "link": "https://api.whatsapp.com/send?phone=5511959331094&text=FRIOS+MISTOS%0ASalame%2C+Ovos+de+Codorna+e+Azeitonas%0AR%2448%2C00"
+        },
+        {
+            "nome": "🍟NUGGETS",
+            "descricao": "15 unidades",
+            "preco": "24,00",
+            "link": "https://api.whatsapp.com/send?phone=5511959331094&text=NUGGETS%0A15+unidades%0AR%2424%2C00"
+        },
+        {
+            "nome": "🍟ANÉIS DE CEBOLA",
+            "descricao": "Acompanha Molho Especial",
+            "preco": "30,00",
+            "link": "https://api.whatsapp.com/send?phone=5511959331094&text=AN%C3%89IS+DE+CEBOLA%0AAcompanha+Molho+Especial%0AR%2430%2C00"
+        }
+    ]
+}

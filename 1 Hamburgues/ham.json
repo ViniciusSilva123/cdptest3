@@ -1,0 +1,94 @@
+{
+  "listahambur": [
+    {
+      "nome": "🍔X-BURGUER",
+      "descricao": "Maionese, Hamburguer 90g e Queijo",
+      "preco": "11,00",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-BURGUER%0AMaionese%2C+Hamburguer+90g+e+Queijo%0AR%2411%2C00"
+    },
+    {
+      "nome": "🍔X-SALADA",
+      "descricao": "Alface, Tomate, Hamburguer 90g e Queija",
+      "preco": "12,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-SALADA%0AAlface%2C+Tomate%2C+Hamburguer+90g+e+Queija%0AR%2412%2C50"
+    },
+    {
+      "nome": "🍔X-SALADA DUPLO",
+      "descricao": "Alface, Tomate, Maionese, 2 Hamburguer 90g e 2 Queijos",
+      "preco": "13,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-SALADA+DUPLO%0AAlface%2C+Tomate%2C+Maionese%2C+2+Hamburguer+90g+e+2+Queijos%0AR%2413%2C50"
+    },
+    {
+      "nome": "🍔X-BACON",
+      "descricao": "Alface, Tomate, Maionese, Hamburguer 90g e Bacon em Fatias",
+      "preco": "15,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-BACON%0AAlface%2C+Tomate%2C+Maionese%2C+Hamburguer+90g+e+Bacon+em+Fatias%0AR%2415%2C50"
+    },
+    {
+      "nome": "🍔X-BACON COM CHEDDAR",
+      "descricao": "Alface, Tomate, Maionese, Hamburguer 90g, Queijo e Calabresa",
+      "preco": "17,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-BACON+COM+CHEDDAR%0AAlface%2C+Tomate%2C+Maionese%2C+Hamburguer+90g%2C+Queijo+e+Calabresa%0AR%2417%2C50"
+    },
+    {
+      "nome": "🍔X-CALABRESA",
+      "descricao": "Alface, Tomate, Maionese, Hamburguer 90g, Queijo e Calabresa",
+      "preco": "15,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-CALABRESA%0AAlface%2C+Tomate%2C+Maionese%2C+Hamburguer+90g%2C+Queijo+e+Calabresa%0AR%2415%2C50"
+    },
+    {
+      "nome": "🍔X-CALABRESA CATUPIRY",
+      "descricao": "Alface, Tomate, Maionese, Hamburguer 90g, Queijo, Calabresa e Catupiry Original",
+      "preco": "17,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-CALABRESA+CATUPIRY%0AAlface%2C+Tomate%2C+Maionese%2C+Hamburguer+90g%2C+Queijo%2C+Calabresa+e+Catupiry+Original%0AR%2417%2C50"
+    },
+    {
+      "nome": "🍔X-FRANGO",
+      "descricao": "Alface, Tomate, Maionese, Hamburguer de Frango e Queijo",
+      "preco": "12,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-FRANGO%0AAlface%2C+Tomate%2C+Maionese%2C+Hamburguer+de+Frango+e+Queijo%0AR%2412%2C50"
+    },
+    {
+      "nome": "🍔X-FRANGO DUPLO",
+      "descricao": "Alface, Tomate, Maionese, 2 Hamburgueres de Frango e 2 Queijos",
+      "preco": "13,00",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-FRANGO+DUPLO%0AAlface%2C+Tomate%2C+Maionese%2C+2+Hamburgueres+de+Frango+e+2+Queijos%0AR%2413%2C00"
+    },
+    {
+      "nome": "🍔X-FRANGO COM CATUPIRY",
+      "descricao": "alface, Tomate, Maionese, Hamburguer de Frango, Queijo e Catupiry Original",
+      "preco": "14,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-FRANGO+COM+CATUPIRY%0Aalface%2C+Tomate%2C+Maionese%2C+Hamburguer+de+Frango%2C+Queijo+e+Catupiry+Original%0AR%2414%2C50"
+    },
+    {
+      "nome": "🍔X-EGG",
+      "descricao": "Alface, Tomate, Maionese, Hamburguer 90g, Queijo e Ovo",
+      "preco": "13,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-EGG%0AAlface%2C+Tomate%2C+Maionese%2C+Hamburguer+90g%2C+Queijo+e+Ovo%0AR%2413%2C50"
+    },
+    {
+      "nome": "🍔X-TUDO",
+      "descricao": "Alface, Tomate, Maionese, Hamburguer 90g, Queijo, Ovo, Bacon, Calabresa e Molho Especial",
+      "preco": "18,00",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-TUDO%0AAlface%2C+Tomate%2C+Maionese%2C+Hamburguer+90g%2C+Queijo%2C+Ovo%2C+Bacon%2C+Calabresa+e+Molho+Especial%0AR%2418%2C00"
+    },
+    {
+      "nome": "🍔X-BURGUER",
+      "descricao": "Maionese, Hamburguer 90g e Queijo",
+      "preco": "14,00",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-BURGUER%0AMaionese%2C+Hamburguer+90g+e+Queijo%0AR%2414%2C00"
+    },
+    {
+      "nome": "🍔X-CHICKEN",
+      "descricao": "Maionese, Alface, Tomate, Stake de Frango e Queijo",
+      "preco": "15,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-CHICKEN%0AMaionese%2C+Alface%2C+Tomate%2C+Stake+de+Frango+e+Queijo%0AR%2415%2C50"
+    },
+    {
+      "nome": "🍔X-BACON COM CHEDDAR E ANÉIS DE CEBOLA",
+      "descricao": "Alface, Tomate, Maionese, Hamburguer 90g, Cheddar",
+      "preco": "19,50",
+      "link": "https://api.whatsapp.com/send?phone=5511959331094&text=X-BACON+COM+CHEDDAR+E+AN%C3%89IS+DE+CEBOLA%0AAlface%2C+Tomate%2C+Maionese%2C+Hamburguer+90g%2C+Cheddar%0AR%2419%2C50"
+    }
+  ]
+}
